@@ -10,6 +10,14 @@
 - React Frontend
 
 ---
+###Test Credentials
+Admin
+
+Email: admin@example.com
+
+Password: password
+
+---
 
 ## Installation
 
@@ -22,18 +30,3 @@ cp .env.example .env
 php artisan key:generate
 php artisan migrate --seed
 php artisan serve
-
----
-
-###Test Credentials
-Admin
-
-Email: admin@example.com
-
-Password: password
-
-User
-
-Email: user@example.com
-
-Password: password
