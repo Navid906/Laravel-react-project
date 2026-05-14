@@ -1,5 +1,7 @@
 # Full Stack Laravel + React Project
 
+This project uses Laravel Sanctum for authentication and ReactJS for frontend UI with role-based access control and notification system.
+
 ## Features
 - Authentication (Sanctum)
 - Role-based Access (Admin/User)
