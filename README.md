@@ -31,6 +31,6 @@ php artisan key:generate
 php artisan migrate --seed
 php artisan serve
 
-### Frontend
+Frontend
 npm install
 npm run dev
