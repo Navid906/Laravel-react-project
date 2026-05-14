@@ -10,7 +10,7 @@
 - React Frontend
 
 ---
-###Test Credentials
+### Test Credentials
 Admin
 
 Email: admin@example.com
@@ -30,3 +30,7 @@ cp .env.example .env
 php artisan key:generate
 php artisan migrate --seed
 php artisan serve
+
+### Frontend
+npm install
+npm run dev
