@@ -23,6 +23,9 @@ Password: password
 
 ## Installation
 
+git clone https://github.com/Navid906/Laravel-react-project.git
+cd Laravel-react-project
+
 ### Backend (Laravel)
 
 ```bash
@@ -33,6 +36,7 @@ php artisan key:generate
 php artisan migrate:fresh --seed
 php artisan serve
 
+```
 Frontend
 cd frontend
 npm install
