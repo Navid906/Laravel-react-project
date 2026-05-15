@@ -30,9 +30,10 @@ cd backend
 composer install
 cp .env.example .env
 php artisan key:generate
-php artisan migrate --seed
+php artisan migrate:fresh --seed
 php artisan serve
 
 Frontend
+cd frontend
 npm install
 npm run dev
