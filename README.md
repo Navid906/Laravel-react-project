@@ -22,10 +22,11 @@ Password: password
 ---
 
 ## Installation
-
+```bash
 git clone https://github.com/Navid906/Laravel-react-project.git
-cd Laravel-react-project
 
+cd Laravel-react-project
+```
 ### Backend (Laravel)
 
 ```bash
